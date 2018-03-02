@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e677727-1855-490e-86cb-d18e4f857609" name="Vagrant" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2222" privateKey="$USER_HOME$/Homestead/.vagrant/machines/homestead-7/virtualbox/private_key" rootFolder="/home/vagrant/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
